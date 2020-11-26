@@ -19,6 +19,9 @@ As a kid, I found interest messing in around with HTML and designing for my Mysp
 
 ## Screenshots
 
-<img src="SS1.png" alt="portfolio-image">
-
-
+<p align="center" display="inline">
+  <img src="https://github.com/Miariabobia/Portfolio/blob/readme/Screen%20Shot%202020-11-25%20at%209.18.06%20PM.png?raw=true" alt="Screenshot" width="400">
+  <img src="https://github.com/Miariabobia/Portfolio/blob/readme/Screen%20Shot%202020-11-25%20at%209.18.35%20PM.png?raw=true" alt="Screenshot" width="400">
+  <img src="https://github.com/Miariabobia/Portfolio/blob/readme/Screen%20Shot%202020-11-25%20at%209.29.17%20PM.png?raw=true" alt="Screenshot" width="400">
+  <img src="https://github.com/Miariabobia/Portfolio/blob/readme/Screen%20Shot%202020-11-25%20at%209.18.49%20PM.png?raw=true" alt="Screenshot" width="400">
+</p>
