@@ -19,6 +19,6 @@ As a kid, I found interest messing in around with HTML and designing for my Mysp
 
 ## Screenshots
 
-
+<img src="SS1.png" alt="portfolio-image">
 
 
