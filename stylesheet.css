@@ -21,7 +21,7 @@ h2 {
   font-size: 2.5rem;
   color: #5d649c;
 }
-#h2 {
+#h3 {
   padding-left: 30px;
 }
 h3 {
@@ -47,7 +47,7 @@ p {
 
 .enter {
   height: 50px;
-  padding-top: 200px;
+  padding-top: 100px;
 }
 
 .top-container {
@@ -64,8 +64,11 @@ p {
 
 .bottom-container {
   background-color: #d6f1ff;
-  padding-top: 50px;
+  padding-top: 5px;
   padding-bottom: 10px;
+}
+.h2bottom {
+    font-size: 24px;
 }
 
 .profile {
@@ -91,7 +94,7 @@ p {
 }
 
 .certifications-image {
-  width: 45%;
+  width: 50%;
   padding-top: 50px;
 
 }
@@ -117,6 +120,7 @@ p {
 
 #copyright {
   color: grey;
+  font-size: 12px;
 }
 
 .fade-in {
