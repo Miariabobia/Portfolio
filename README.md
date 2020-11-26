@@ -4,7 +4,7 @@ A webpage developed and design after attending Udemy's "The Complete 2020 Web De
 
 ## Motivation
 
-As a kid, I found interest messing in around with HTML and designing for my Myspace and Tumblr themes and Layouts. With my recent career transition into UX design, my passion was reignited, so I decided to learn as much as I can about front-end development before my User Experience Design Immersive program begins. 
+As a kid, I found interest in messing around with HTML and designing for my Myspace and Tumblr themes and Layouts. With my recent career transition into UX design, my passion was reignited, so I decided to learn as much as I can about front-end development before my User Experience Design Immersive program begins. 
 
 ## Tools Used
 
